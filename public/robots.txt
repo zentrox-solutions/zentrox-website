@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Block any utility/config files from being indexed
+Disallow: /src/
+Disallow: /*.json$
+Disallow: /*.env$
+
+# Allow JS/CSS/images for proper rendering
+Allow: /assets/
+Allow: /images/
+Allow: /static/
+
+# Sitemap
+Sitemap: https://zentroxsolutions.com/sitemap.xml
