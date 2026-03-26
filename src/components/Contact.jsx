@@ -430,7 +430,7 @@ export default function CTASection() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="mailto:zentroxsolutions.official@gmail.com"
+                    href="mailto:info@zentroxsolutions.com"
                     className="px-6 py-3 rounded-xl font-semibold text-center transition-all duration-300 transform hover:-translate-y-0.5"
                     style={{
                       color: "#93C5FD",

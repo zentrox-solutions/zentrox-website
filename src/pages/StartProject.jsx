@@ -63,7 +63,7 @@ const contactPageSchema = {
   breadcrumb: "https://zentroxsolutions.com/start-project",
   potentialAction: {
     "@type": "CommunicateAction",
-    target: "mailto:zentroxsolutions.official@gmail.com",
+    target: "mailto:info@zentroxsolutions.com",
   },
 };
 
@@ -755,8 +755,8 @@ export default function ContactPage() {
                   </svg>
                 ),
                 label: "Email Us",
-                value: "zentroxsolutions.official@gmail.com",
-                href: "mailto:zentroxsolutions.official@gmail.com",
+                value: "info@zentroxsolutions.com",
+                href: "mailto:info@zentroxsolutions.com",
               },
               // {
               //   icon: (

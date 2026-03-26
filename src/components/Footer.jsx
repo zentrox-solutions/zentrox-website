@@ -216,7 +216,7 @@ export default function Footer() {
                   </svg>
                 </div>
                 <a
-                  href="mailto:zentroxsolutions.official@gmail.com"
+                  href="mailto:info@zentroxsolutions.com"
                   className="text-sm transition-colors duration-200"
                   style={{ color: "#94A3B8" }}
                   onMouseEnter={(e) =>
@@ -226,7 +226,7 @@ export default function Footer() {
                     (e.currentTarget.style.color = "#94A3B8")
                   }
                 >
-                  zentroxsolutions.official@gmail.com
+                  info@zentroxsolutions.com
                 </a>
               </motion.div>
 

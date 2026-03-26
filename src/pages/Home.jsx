@@ -147,7 +147,7 @@ const structuredDataService = {
   name: "Zentrox Solutions",
   "@id": "https://zentroxsolutions.com",
   image: "https://zentroxsolutions.com/images/zs.png",
-  email: "zentroxsolutions.official@gmail.com",
+  email: "info@zentroxsolutions.com",
   // telephone: "+923000000000", // replace with real number
   url: "https://zentroxsolutions.com",
   description:

@@ -157,7 +157,7 @@ const faqData = [
     id: 14,
     question: "How do I get started with Zentrox Solutions?",
     answer:
-      "Simply reach out via our contact form or email us at zentroxsolutions.official@gmail.com. We'll schedule a free discovery call, understand your project, and send you a detailed proposal — no obligations.",
+      "Simply reach out via our contact form or email us at info@zentroxsolutions.com. We'll schedule a free discovery call, understand your project, and send you a detailed proposal — no obligations.",
     category: "process",
     tags: ["get started", "contact", "onboarding", "discovery"],
   },
