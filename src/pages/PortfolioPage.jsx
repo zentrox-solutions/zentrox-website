@@ -677,6 +677,7 @@ import wasooliImg from "./../assets/portfolio-images/wasooli.png";
 import ilmwasooliImg from "./../assets/portfolio-images/ilmwasooli.png";
 import wasooliaabImg from "./../assets/portfolio-images/wasooliaab.png";
 import cornerstonesImg from "./../assets/portfolio-images/cornerstones.png";
+import vkdentalcareImg from "./../assets/portfolio-images/vkdentalcare.png";
 
 // ─── Zentrox Palette v3 ───────────────────────────────────────────────────────
 // --black:       #000000   Primary BG
@@ -713,6 +714,20 @@ const itemVariants = {
 const projects = [
   {
     id: 1,
+    name: "VK Dental Care",
+    tagline: "Modern Dental Clinic Website",
+    category: "website",
+    categoryLabel: "Website",
+    description:
+      "A modern, high-conversion website designed for a dental clinic to attract and convert new patients. The site focuses on clean UI, trust-building visuals, and clear service presentation, including treatments, doctor profiles, and contact options. Built with performance and responsiveness in mind, it ensures fast load times and a seamless experience across all devices, helping clinics establish a strong online presence.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    previewUrl: "https://vkdentalcare.zentroxsolutions.com",
+    image: vkdentalcareImg,
+    year: "2026",
+    accentColor: "#0EA5E9",
+  },
+  {
+    id: 2,
     name: "Wasooli",
     tagline: "ISP & Cable Billing Management Platform",
     category: "website",
@@ -726,7 +741,7 @@ const projects = [
     accentColor: "#2563EB",
   },
   {
-    id: 2,
+    id: 3,
     name: "IlmWasooli",
     tagline: "School Management & ERP System Website",
     category: "website",
@@ -740,7 +755,7 @@ const projects = [
     accentColor: "#3B7BF5",
   },
   {
-    id: 3,
+    id: 4,
     name: "WasooliAab",
     tagline: "Water Supply Management System Website",
     category: "website",
@@ -754,7 +769,7 @@ const projects = [
     accentColor: "#60A0FF",
   },
   {
-    id: 4,
+    id: 5,
     name: "Cornerstones School",
     tagline: "Modern School Website Experience",
     category: "website",
